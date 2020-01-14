@@ -1,0 +1,1 @@
+from dbstoreplugin.store.artifact.db_artifact_repo import DBArtifactRepository
