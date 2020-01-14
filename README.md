@@ -20,4 +20,4 @@ entry_points={
 
 The proposed plugin structure and development workflow provide the following experience to the end user:
 
-Users can simply install MLflow with the SQL Server plugin via `pip install mlflow[sqlserver]` and then use MLflow as normal. The SQLServer artifact support will be provided automatically using the previously-described setup entrypoints mechanism.
+Users can simply install MLflow with the SQL Server plugin via `pip install mlflow[sqlserver]` and then use MLflow as normal. The SQL Server artifact support will be provided automatically using the previously-described setup entrypoints mechanism.
