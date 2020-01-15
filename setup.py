@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='mlflow-dbstore',
-    version='1.0.0',
+    version='1.0.1',
     description='Plugin that provides DB Artifact Store functionality for MLflow',
     long_description=long_description,
     long_description_content_type="text/markdown",
